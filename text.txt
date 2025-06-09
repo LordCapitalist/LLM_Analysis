@@ -1,0 +1,7 @@
+Cuisine is more than sustenance, it encodes history, religion, class and migration. It safeguards cultural identity, reignites traditions and invites people to gather around a shared table, differences set aside for the pleasure of a good meal. But as many other things, something which defines a person can be a target for an attack. In the American civil war, cuisine was used as a racial stereotype which had long lasting effects on the African American population. Using cuisine as a target for hatred is just one of many things which undermines our shared cultural experiences and breeds hatred between cultures. It has been shown countless times that racisme and bigotry is much too easy for large language models to replicate. Most famously was amazons very own recruiting tools which had a bias against woman. 
+https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/
+
+The case on racisme and bigotry surrounding large language models have been reported time and time again but what about something a lot less subtle. And that is where this technical report arrives at, is there a racial bias in cuisine in large language models.
+
+The main goal for this report is to test, document and enlighten on the dangers of racial bias. Using and seeing if the model will default to a racially stereotypical meal and if it make systematic changes when it recommends food to different races.
+
