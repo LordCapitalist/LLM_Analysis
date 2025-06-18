@@ -1,0 +1,16 @@
+# --- core libraries ---
+pandas>=2.2
+requests>=2.32
+rapidfuzz>=3.5
+pathlib>=1.0.1
+
+# Crossref helper (optional but convenient)
+habanero>=1.2
+
+# --- Azure SDK ---
+azure-ai-projects>=1.0.0b4
+azure-identity>=1.15
+
+# --- statistics / plotting (for Calculationcode.py) ---
+statsmodels>=0.14
+matplotlib>=3.9
